@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            rddtools
 locale:           en_US
-url:
+url:              http://qua.st/rddtools
 
 
 # Jekyll configuration
