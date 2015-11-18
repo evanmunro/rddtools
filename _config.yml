@@ -30,19 +30,19 @@ owner:
   avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d?s=400
   bio: PhD Development Economics
   email: bquast@gmail.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  disqus-shortname: bquast
+  twitter: baquast
+  facebook: baquast
   google:
-    plus: #username
-    analytics:
+    plus: BastiaanQuast
+    analytics: UA-52945502-5
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: bquast
+  stackoverflow: bquast
+  linkedin: baquast
   xing: #username
   instagram: #username
   lastfm: #username
