@@ -2,19 +2,25 @@
 
 Bastiaan_Quast:
   name: Bastiaan Quast
+  avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d?s=400
+  bio: "PhD Development Economics"
   web: http://qua.st/
   email: bquast@gmail.com
-  bio: "PhD Development Economics"
-  avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d?s=400
+  disqus-shortname: bquast
   twitter: baquast
+  facebook: baquast
   google:
     plus: BastiaanQuast
+  github: bquast
+  stackoverflow: 1328355/bquast
+  linkedin: baquast
+  
 
-cornelius_fiddlebone:
+Matthieu_Stigler:
   name: Matthieu Stigler
+  avatar: bio-photo.jpg
   email: matthieu.stigler@gmail.com
   bio: "PhD Economics"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: #rhymeswithsackit
   google:
     plus: MatthieuStigler
