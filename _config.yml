@@ -3,6 +3,7 @@
 title:            rddtools
 locale:           en_US
 url:              http://qua.st/rddtools
+encoding:         UTF-8
 
 
 # Jekyll configuration
