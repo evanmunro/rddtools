@@ -1,5 +1,6 @@
 ---
 layout: post
+output: html_document
 title: Morocco
 author: "Bastiaan Quast"
 permalink: morocco
