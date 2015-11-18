@@ -2,7 +2,7 @@
 layout: post
 output: html_document
 title: Morocco
-author: "Bastiaan Quast"
+author: Bastiaan_Quast
 ---
 
 we use the data from the Initiative Nationale du Development Humaine (INDH) a development project in Morocco.
