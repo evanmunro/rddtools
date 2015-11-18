@@ -1,20 +1,20 @@
 # Authors
 
 billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+  name: Bastiaan Quast
+  web: http://qua.st/
+  email: bquast@gmail.com
+  bio: "PhD Development Economics"
+  avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d?s=400
+  twitter: baquast
   google:
-    plus: BillyRick
+    plus: BastiaanQuast
 
 cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+  name: Matthieu Stigler
+  email: matthieu.stigler@gmail.com
+  bio: "PhD Economics"
   avatar: bio-photo.jpg
   twitter: rhymeswithsackit
   google:
-    plus: CorneliusFiddlebone
+    plus: MatthieuStigler
