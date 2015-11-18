@@ -89,7 +89,7 @@ and visualising the non-parametric estimation.
 plot(reg_nonpara)
 ```
 
-Sensitity tests.
+Sensitivity tests.
 
 ```{r}
 plotSensi(reg_nonpara, from=0.05, to=1, by=0.1)
