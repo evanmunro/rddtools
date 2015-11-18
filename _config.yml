@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Bastiaan Quast
+  avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d?s=400
+  bio: PhD Development Economics
+  email: bquast@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
