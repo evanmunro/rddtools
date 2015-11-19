@@ -33,11 +33,8 @@
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
     {% for post in site.posts limit:3 %}    
     <article>
-      {% if post.link %}
-      {% else %}
-        <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
+      <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
     </article>
     {% endfor %}
     {% include _author-bio.html %}
