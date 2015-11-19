@@ -51,6 +51,9 @@
   {% if site.owner.disqus-shortname and page.comments == true %}
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   {% endif %}
+  {% if page.comments == true %}
+    {% include comment_template.html %}
+  {% endif%}
   </article>
 </div><!-- /#main -->
 
