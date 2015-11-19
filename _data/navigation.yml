@@ -3,11 +3,17 @@
 - title: About
   url: /about/
 
-- title: Sample Posts
-  url: /posts/
+- title: News
+  url: /news/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Usage
+  url: /usage/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Contributing
+  url: /contributing/
+
+- title: Acknowledgements
+  url: /acknowledgements/
+
+- title: Citing
+  url: /citing/
