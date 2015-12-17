@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Features
+  url: /features/
+
+- title: Replications
+  url: /replications/
+
+- title: Authors
+  url: /authors/
 
 - title: News
   url: /news/
-
-- title: Usage
-  url: /usage/
-
-- title: Contributing
-  url: /contributing/
-
-- title: Acknowledgements
-  url: /acknowledgements/
-
-- title: Citing
-  url: /citing/
