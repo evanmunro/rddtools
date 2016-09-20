@@ -141,6 +141,13 @@ defaults:
         nav: "docs"
 
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Reading Files
 include:
   - .htaccess
