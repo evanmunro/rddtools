@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-permalink: /docs/Installation/
+permalink: /docs/installation/
 excerpt: "Install `rddtools`"
 modified: 2016-09-21
 ---
