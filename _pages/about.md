@@ -4,7 +4,7 @@ title: "About rddtools"
 permalink: /about/
 modified: 2016-09-21
 header:
-  image: iceberg-edge.jpg
+  image: iceberg-cliff.jpg
 
 ---
 
