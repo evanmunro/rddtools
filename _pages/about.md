@@ -17,7 +17,7 @@ and loaded using:
 library(rddtools)
 ```
 
-For documentation see the [Quick-Start Guide](/docs/quick-start-guide) or use the following commands in the R console:
+For documentation see the [Quick-Start Guide](/rddtools/docs/quick-start-guide) or use the following commands in the R console:
 
 ```r
 help(rddtools)
