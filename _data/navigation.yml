@@ -18,8 +18,6 @@ docs:
         url: /docs/installation/
       - title: "Loading"
         url: /docs/loading/
-      - title: "Example"
-        url: /docs/example/
 
   - title: Loading Data
     children:
@@ -30,8 +28,10 @@ docs:
 
   - title: Options
     children:
-      - title: "Decomposition"
-        url: /docs/decomposition/
+      - title: "Parametric"
+        url: /docs/parametric/
+      - title: "Non-Parametric"
+        url: /docs/non-parametric/
 
   - title: Extra
     children:
