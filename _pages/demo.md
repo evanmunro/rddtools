@@ -1,4 +1,5 @@
 ---
+layout: splash
 title: "Interactive Demo"
 permalink: /demo/
 excerpt: "Interactive Demo"
