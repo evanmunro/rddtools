@@ -3,6 +3,9 @@ layout: single
 title: "About rddtools"
 permalink: /about/
 modified: 2016-09-21
+header:
+  image: iceberg-edge.jpg
+
 ---
 
 The `rddtools` package is an R package that is available on [CRAN](https://cran.r-project.org/package=rddtools), it can be installed using:
