@@ -6,12 +6,13 @@ main:
   - title: "Interactive Demo"
     url: /demo
       
-  - title: "About"
-    url: /about
 
   - title: "News"
     url: /news
 
+  - title: "About"
+    url: /about
+    
 docs:
   - title: Getting Started
     children:
