@@ -22,20 +22,24 @@ docs:
       - title: "Loading"
         url: /docs/loading/
 
-  - title: Loading Data
+  - title: Data preparation
     children:
-      - title: "Sample Data"
+      - title: "Demo Data"
         url: /docs/sample-data/
       - title: "Importing Data"
         url: /docs/importing-data/
 
-  - title: Options
+  - title: Analysis
     children:
       - title: "Parametric"
         url: /docs/parametric/
       - title: "Non-Parametric"
         url: /docs/non-parametric/
-
+  
+  - title: Sensitivity analysis:
+      - title: "Bandwidth sensitivity"
+        url: /docs/bandwidth-sensitivity/
+  
   - title: Extra
     children:
       - title: "Development"
