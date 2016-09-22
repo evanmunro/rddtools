@@ -2,6 +2,9 @@
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
+    
+  - title: "Documentation"
+    url: /docs/introduction
       
   - title: "Interactive Demo"
     url: /demo
@@ -18,6 +21,12 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
+      - title: "Further readering"
+        url: /docs/further-reading/
+        
+  - title: Documentation
+      - title: "Introduction"
+        url: /docs/introduction
       - title: "Installation"
         url: /docs/installation/
       - title: "Loading"
