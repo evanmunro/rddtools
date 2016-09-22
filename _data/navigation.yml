@@ -25,6 +25,7 @@ docs:
         url: /docs/further-reading/
         
   - title: Documentation
+    children:
       - title: "Introduction"
         url: /docs/introduction
       - title: "Installation"
