@@ -36,7 +36,8 @@ docs:
       - title: "Non-Parametric"
         url: /docs/non-parametric/
   
-  - title: Sensitivity analysis:
+  - title: Sensitivity analysis
+    children:
       - title: "Bandwidth sensitivity"
         url: /docs/bandwidth-sensitivity/
   
