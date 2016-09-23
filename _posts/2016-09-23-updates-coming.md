@@ -9,7 +9,7 @@ The first results are already visible, the new website, as well as the [Interact
 Matthieu has also been busy adding new issues to the tracker, that will hopefully be fixed soon,
 as well as the implementation of some new methods.
 
-We also had a [bugfix](https://github.com/bquast/rddtools/commit/f28e97504519521571ff5d636898aeb21e6c84f8) by [Paul Testa](https://sites.google.com/site/paultesta/),
+We also had a [bugfix](https://github.com/bquast/rddtools/commit/f28e97504519521571ff5d636898aeb21e6c84f8) by [Paul Testa](https://sites.google.com/site/paultesta/) (for which, thanks),
 which has already made its way to [CRAN](http://cran.r-project.org/package=rddtools).
 
 Lastly, we are considering renaming the package (though not the functions) to RDDtools, would this be more informative to new users?
