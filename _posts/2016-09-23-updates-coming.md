@@ -13,6 +13,6 @@ We also had a [bugfix](https://github.com/bquast/rddtools/commit/f28e97504519521
 which has already made its way to [CRAN](http://cran.r-project.org/package=rddtools).
 
 Lastly, we are considering renaming the package (though not the functions) to RDDtools, would this be more informative to new users?
-As of yet we do not have a commenting system here, so if you have an opinion on this, please drop me a line on one of the platforms on the right.
+As of yet, we do not have a commenting system here, so if you have an opinion on this, please drop me a line on one of the platforms on the right.
 
 
